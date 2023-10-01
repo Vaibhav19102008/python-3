@@ -27,7 +27,7 @@ The following folders are automatically generated. You will need to submit a pat
 In this main repo, the following folders contain developer written codes and the patches should be submitted as pull requests here:
 - [kubernetes/base](kubernetes/base)
 - [kubernetes/config](kubernetes/config)
-- [kubernetes/dynamic](kubernetes/dynamic)
+- [kubernetes/dynamic](kubernetes/dynamic)jkjkjkslddf
 - [kubernetes/e2e_test](kubernetes/e2e_test)
 - [kubernetes/leaderelection](kubernetes/leaderelection)
 - [kubernetes/stream](kubernetes/stream)
